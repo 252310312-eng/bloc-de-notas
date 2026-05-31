@@ -1,0 +1,16 @@
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\bin\Debug\net8.0-windows\P1U62523103122APOO.exe
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\bin\Debug\net8.0-windows\P1U62523103122APOO.deps.json
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\bin\Debug\net8.0-windows\P1U62523103122APOO.runtimeconfig.json
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\bin\Debug\net8.0-windows\P1U62523103122APOO.dll
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\bin\Debug\net8.0-windows\P1U62523103122APOO.pdb
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\obj\Debug\net8.0-windows\P1U62523103122APOO.Form1.resources
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\obj\Debug\net8.0-windows\P1U62523103122APOO.csproj.GenerateResource.cache
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\obj\Debug\net8.0-windows\P1U62523103122APOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\obj\Debug\net8.0-windows\P1U62523103122APOO.AssemblyInfoInputs.cache
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\obj\Debug\net8.0-windows\P1U62523103122APOO.AssemblyInfo.cs
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\obj\Debug\net8.0-windows\P1U62523103122APOO.csproj.CoreCompileInputs.cache
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\obj\Debug\net8.0-windows\P1U62523103122APOO.dll
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\obj\Debug\net8.0-windows\refint\P1U62523103122APOO.dll
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\obj\Debug\net8.0-windows\P1U62523103122APOO.pdb
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\obj\Debug\net8.0-windows\P1U62523103122APOO.genruntimeconfig.cache
+E:\Actividades,Tareas (Visual Estudio)\P1U62523103122APOO\P1U62523103122APOO\obj\Debug\net8.0-windows\ref\P1U62523103122APOO.dll

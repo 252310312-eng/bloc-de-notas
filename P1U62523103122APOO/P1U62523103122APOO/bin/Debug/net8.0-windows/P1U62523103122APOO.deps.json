@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P1U62523103122APOO/1.0.0": {
+        "runtime": {
+          "P1U62523103122APOO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P1U62523103122APOO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
